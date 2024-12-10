@@ -5,8 +5,8 @@ This is my most recent project, that I started this month. Elevate is a Christia
 ## What I'm Learning
 
 - Implementing Google OAuth
+- Connecting and deploying to a secure, custom domain
 - CI/CD practices
-- Connecting and deploying to a custom domain 
 - How to send push notifications (Web Push)
 - MongoDB
 - Advantages of Next.js
